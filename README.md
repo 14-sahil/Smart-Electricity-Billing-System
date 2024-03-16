@@ -1,4 +1,4 @@
-Sure, here's the enhanced version with emojis:
+
 
 ## Introduction 🌟
 We understand the significance of maintaining accurate and up-to-date electricity billing records. The Smart Electricity Billing System is designed to streamline the billing process, providing a user-friendly interface, secure payment options, and an automated billing system. This project revolutionizes traditional paper-based billing methods, bringing efficiency and reliability to electricity billing.
@@ -38,7 +38,7 @@ While the system currently provides various payment options, including online ga
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/suraj1849/Smart-Electricity-Billing-System.git
+   git clone https://github.com/14-sahil/Smart-Electricity-Billing-System.git
    ```
 
 2. Set up MySQL database using the provided scripts in the database-scripts folder.
